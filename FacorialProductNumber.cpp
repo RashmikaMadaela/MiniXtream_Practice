@@ -5,7 +5,7 @@
 #include <algorithm>
 using namespace std;
 
-bool comp(int a, int b){
+bool comp(char a, char b){
     return a > b;
 }
 
